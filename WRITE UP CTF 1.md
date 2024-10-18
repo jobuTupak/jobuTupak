@@ -3,7 +3,7 @@ Write Up Capture The Flag (CTF)
 
 So, I've been given a ctf weekly challenge by the clurb. I'm here for it. 
 
-![Image_Alt](https://github.com/jobuTupak/jobuTupak/blob/14e3d1dcd7f8321265c75e9b57aa146e370c5730/ctf%201%20a.png)
+![Image_Alt](https://github.com/jobuTupak/jobuTupak/blob/73eb51aabc5ecdcdaf72200c1f27da3822fee208/ctf%201.png)
 
 -What do we have here...I opened the description first to see what's going on
 
